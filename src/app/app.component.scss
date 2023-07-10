@@ -7,3 +7,13 @@
     //     lightblue 0 
     //     );
 }
+
+.piechart1 {   
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-image: conic-gradient(
+        pink 220deg, 
+        lightblue 0 
+        );
+}
